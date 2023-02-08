@@ -1,0 +1,880 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 SD" tvg-logo="https://2.bp.blogspot.com/-ygRxWjA8yjM/WB3MKzbPNFI/AAAAAAAAFRs/BUdrADdoHCE3hOK8PwzgiHpwzMSTJvpPQCLcB/s1600/RTP+1+logo.png" group-title="Portugal",PT: RTP 1 SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423964.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 HD" tvg-logo="https://4.bp.blogspot.com/-3HFzezHOw2s/WB3MK6zeqTI/AAAAAAAAFRk/DhtV1HhzaL4DkDZt2reem5MVjO3711VoQCLcB/s1600/RTP+1+HD+logo.png" group-title="Portugal",PT: RTP 1 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423965.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 ( HD HEVC )©" tvg-logo="https://2.bp.blogspot.com/-ygRxWjA8yjM/WB3MKzbPNFI/AAAAAAAAFRs/BUdrADdoHCE3hOK8PwzgiHpwzMSTJvpPQCLcB/s1600/RTP+1+logo.png" group-title="Portugal",PT: RTP 1 ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423966.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 FHD" tvg-logo="https://4.bp.blogspot.com/-3HFzezHOw2s/WB3MK6zeqTI/AAAAAAAAFRk/DhtV1HhzaL4DkDZt2reem5MVjO3711VoQCLcB/s1600/RTP+1+HD+logo.png" group-title="Portugal",PT: RTP 1 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423967.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 SD" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP+2+logo.png" group-title="Portugal",PT: RTP 2 SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423968.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 HD" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP+2+logo.png" group-title="Portugal",PT: RTP 2 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423969.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 ( HD HEVC )©" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP+2+logo.png" group-title="Portugal",PT: RTP 2 ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423970.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 FHD" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP+2+logo.png" group-title="Portugal",PT: RTP 2 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423971.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC SD" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC+HD+logo.png" group-title="Portugal",PT: SIC SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423972.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC HD" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC+HD+logo.png" group-title="Portugal",PT: SIC HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423973.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC ( HD HEVC )©" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC+HD+logo.png" group-title="Portugal",PT: SIC ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423974.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC FHD" tvg-logo="https://4.bp.blogspot.com/-seQXpicDRC0/WDtddC4QH6I/AAAAAAAAFjg/07nSMTXxE54Vf4TlXW2rTvG35BT-d-qqQCLcB/s1600/SIC+HD+logo.png" group-title="Portugal",PT: SIC FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423975.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI SD" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI+logo.png" group-title="Portugal",PT: TVI SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423976.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI HD" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI+logo.png" group-title="Portugal",PT: TVI HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423977.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI  ( HD HEVC )©" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI+logo.png" group-title="Portugal",PT: TVI  ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423978.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FHD" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI+logo.png" group-title="Portugal",PT: TVI FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423979.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ♛♛ INFORMACÃO ♛♛" tvg-logo="http://television.com.ar/wp-content/uploads/2017/10/nuevologotelefe-730x343.jpg" group-title="Portugal",PT: ♛♛ INFORMACÃO ♛♛
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423980.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV SD" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM+TV+logo.png" group-title="Portugal",PT: CMTV SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423981.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV HD" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM+TV+logo.png" group-title="Portugal",PT: CMTV HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423982.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV ( HD HEVC )©" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM+TV+logo.png" group-title="Portugal",PT: CMTV ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423983.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV FHD" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM+TV+logo.png" group-title="Portugal",PT: CMTV FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423984.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN SD" tvg-logo="https://e7.pngegg.com/pngimages/432/428/png-clipart-logo-graphics-cnn-turk-cruise-director-job-text-trademark.png" group-title="Portugal",PT: CNN SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423985.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN HD" tvg-logo="https://e7.pngegg.com/pngimages/432/428/png-clipart-logo-graphics-cnn-turk-cruise-director-job-text-trademark.png" group-title="Portugal",PT: CNN HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423986.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN ( HD HEVC )©" tvg-logo="https://e7.pngegg.com/pngimages/432/428/png-clipart-logo-graphics-cnn-turk-cruise-director-job-text-trademark.png" group-title="Portugal",PT: CNN ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423987.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CNN FHD" tvg-logo="https://e7.pngegg.com/pngimages/432/428/png-clipart-logo-graphics-cnn-turk-cruise-director-job-text-trademark.png" group-title="Portugal",PT: CNN FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423988.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 SD" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="Portugal",PT: RTP 3 SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423989.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 HD" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="Portugal",PT: RTP 3 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423990.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 ( HD HEVC )©" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="Portugal",PT: RTP 3 ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423991.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 FHD" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="Portugal",PT: RTP 3 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423992.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS SD" tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC+Not%25C3%25ADcias+logo.png" group-title="Portugal",PT: SIC NOTICIAS SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423993.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS HD" tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC+Not%25C3%25ADcias+logo.png" group-title="Portugal",PT: SIC NOTICIAS HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423994.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS ( HD HEVC )©" tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC+Not%25C3%25ADcias+logo.png" group-title="Portugal",PT: SIC NOTICIAS ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423995.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS FHD" tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC+Not%25C3%25ADcias+logo.png" group-title="Portugal",PT: SIC NOTICIAS FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423996.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AR TV" tvg-logo="https://www.tv-direct.fr/assets/logo/chaines/artv-canal-parlamento.jpg" group-title="Portugal",PT: AR TV
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423997.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: LOCALl VISIÃO HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/LocalvisAoTVlogo.png/revision/latest/scale-to-width-down/300?cb=20181201222955" group-title="Portugal",PT: LOCALl VISIÃO HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423998.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLOOMBERG" tvg-logo="https://www.pngitem.com/pimgs/m/17-172093_bloomberg-tv-logo-png-transparent-png.png" group-title="Portugal",PT: BLOOMBERG
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/423999.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRT WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/2560px-TRT_World.svg.png" group-title="Portugal",PT: TRT WORLD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424000.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TELEVISIÓN DE GALICIA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/46/Television_de_Galicia.svg/1200px-Television_de_Galicia.svg.png" group-title="Portugal",PT: TELEVISIÓN DE GALICIA
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424001.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ♛♛ FILMES ♛♛" tvg-logo="https://www.tutoriart.com.br/wp-content/uploads/2011/03/17-1.jpg" group-title="Cinema",PT: ♛♛ FILMES ♛♛
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424002.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE + HD" tvg-logo="https://www.tvcine.pt/TVCine-PLUS-pattern.gif" group-title="Cinema",PT: TVCINE + HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424003.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE TOP SD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="Cinema",PT: TV CINE TOP SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424004.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE TOP HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="Cinema",PT: TV CINE TOP HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424005.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE TOP ( HD HEVC )©" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="Cinema",PT: TV CINE TOP ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424006.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE TOP FHD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvctop.png" group-title="Cinema",PT: TV CINE TOP FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424007.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EDITION  SD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" group-title="Cinema",PT: TV CINE EDITION  SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424008.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EDITION  HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" group-title="Cinema",PT: TV CINE EDITION  HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424009.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EDITION  ( HD HEVC )©" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" group-title="Cinema",PT: TV CINE EDITION  ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424010.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EDITION  FHD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcedition.png" group-title="Cinema",PT: TV CINE EDITION  FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424011.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EMOTION SD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" group-title="Cinema",PT: TV CINE EMOTION SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424012.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EMOTION HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" group-title="Cinema",PT: TV CINE EMOTION HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424013.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EMOTION ( HD HEVC )©" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" group-title="Cinema",PT: TV CINE EMOTION ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424014.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE EMOTION FHD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcemotion.png" group-title="Cinema",PT: TV CINE EMOTION FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424015.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE ACTION SD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="Cinema",PT: TV CINE ACTION SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424016.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE ACTION HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="Cinema",PT: TV CINE ACTION HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424017.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE ACTION ( HD HEVC )©" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="Cinema",PT: TV CINE ACTION ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424018.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV CINE ACTION FHD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/tvcine/logo/tvcaction.png" group-title="Cinema",PT: TV CINE ACTION FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424019.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS SD" tvg-logo="https://cdn.nos.pt/common/img/nos.png" group-title="Cinema",PT: NOS STUDIOS SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424020.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS HD" tvg-logo="https://cdn.nos.pt/common/img/nos.png" group-title="Cinema",PT: NOS STUDIOS HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424021.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS ( HD HEVC )©" tvg-logo="https://cdn.nos.pt/common/img/nos.png" group-title="Cinema",PT: NOS STUDIOS ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424022.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS FHD" tvg-logo="https://cdn.nos.pt/common/img/nos.png" group-title="Cinema",PT: NOS STUDIOS FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424023.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="Cinema",PT: HOLLYWOOD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424024.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD HD" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="Cinema",PT: HOLLYWOOD HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424025.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD ( HD HEVC )©" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="Cinema",PT: HOLLYWOOD ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424027.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD FHD" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="Cinema",PT: HOLLYWOOD FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424028.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="Cinema",PT: FOX MOVIES
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424029.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES HD" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="Cinema",PT: FOX MOVIES HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424030.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES ( HD HEVC )©" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="Cinema",PT: FOX MOVIES ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424031.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES FHD" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="Cinema",PT: FOX MOVIES FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424032.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO SD" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo+logo+1.png" group-title="Cinema",PT: CINEMUNDO SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424033.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO HD" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo+logo+1.png" group-title="Cinema",PT: CINEMUNDO HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424034.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO ( HD HEVC )©" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo+logo+1.png" group-title="Cinema",PT: CINEMUNDO ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424035.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO FHD" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo+logo+1.png" group-title="Cinema",PT: CINEMUNDO FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424036.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC SD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC+logo.png" group-title="Cinema",PT: AMC SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424037.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC HD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC+logo.png" group-title="Cinema",PT: AMC HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424038.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC ( HD HEVC )©" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC+logo.png" group-title="Cinema",PT: AMC ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424039.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC FHD" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC+logo.png" group-title="Cinema",PT: AMC FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424040.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC CRIME SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/AMC_Crime.svg/revision/latest/scale-to-width-down/300?cb=20220420114936" group-title="Cinema",PT: AMC CRIME SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424041.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC BREAK SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751" group-title="Cinema",PT: AMC BREAK SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424042.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC BREAK HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/AMC_Break_Print.svg/revision/latest/scale-to-width-down/200?cb=20220419183751" group-title="Cinema",PT: AMC BREAK HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424043.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DIZI CHANNEL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Timeless_Dizi_Channel.svg/revision/latest/scale-to-width-down/200?cb=20201120120137" group-title="Cinema",PT: DIZI CHANNEL
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424044.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: STAR + HD" tvg-logo="https://www.kindpng.com/picc/m/65-659934_transparent-background-star-hd-png-download.png" group-title="Cinema",PT: STAR + HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424045.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HBO PORTUGAL" tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/hbo.png" group-title="Cinema",PT: HBO PORTUGAL
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424046.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NETFLIX TV" tvg-logo="https://seeklogo.net/wp-content/uploads/2020/03/Netflix-logo-Symbol.png" group-title="Cinema",PT: NETFLIX TV
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424047.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MARVEL" tvg-logo="https://i.ibb.co/FsRDN2Z/889d7ddef09c4a3049981708eb525ed5.png" group-title="Cinema",PT: MARVEL
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424048.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ♛♛ SÉRIES ♛♛" tvg-logo="" group-title="Portugal",PT: ♛♛ SÉRIES ♛♛
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424049.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DC" tvg-logo="https://i.ibb.co/F0kb6fn/600px-DC-Comics-logo.png" group-title="Series",PT: DC
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424050.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN+HD+logo.png" group-title="Series",PT: AXN
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424051.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN HD" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN+HD+logo.png" group-title="Series",PT: AXN HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424052.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN ( HD HEVC )©" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN+HD+logo.png" group-title="Series",PT: AXN ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424053.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN FHD" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN+HD+logo.png" group-title="Series",PT: AXN FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424054.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN+White+HD+logo.png" group-title="Series",PT: AXN WHITE
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424055.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE HD" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN+White+HD+logo.png" group-title="Series",PT: AXN WHITE HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424056.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE ( HD HEVC )©" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN+White+HD+logo.png" group-title="Series",PT: AXN WHITE ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424057.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE FHD" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN+White+HD+logo.png" group-title="Series",PT: AXN WHITE FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424058.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Series",PT: AXN MOVIES
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424059.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES  HD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Series",PT: AXN MOVIES  HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424060.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES ( HD HEVC )©" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Series",PT: AXN MOVIES ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424061.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES FHD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Series",PT: AXN MOVIES FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424062.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY" tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy+HD+logo.png" group-title="Series",PT: SYFY
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424063.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY HD" tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy+HD+logo.png" group-title="Series",PT: SYFY HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424064.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY  ( HD HEVC )©" tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy+HD+logo.png" group-title="Series",PT: SYFY  ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424065.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY FHD" tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy+HD+logo.png" group-title="Series",PT: SYFY FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424066.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX" tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" group-title="Series",PT: FOX
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424067.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX HD" tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" group-title="Series",PT: FOX HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424068.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX ( HD HEVC )©" tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" group-title="Series",PT: FOX ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424069.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX FHD" tvg-logo="https://pbs.twimg.com/profile_images/2213243445/fox_pt.png" group-title="Series",PT: FOX FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424070.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="Series",PT: FOX CRIME
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424071.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME HD" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="Series",PT: FOX CRIME HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424072.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME ( HD HEVC )©" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="Series",PT: FOX CRIME ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424073.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME FHD" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="Series",PT: FOX CRIME FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424074.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="Series",PT: FOX COMEDY
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424075.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY HD" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="Series",PT: FOX COMEDY HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424076.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY ( HD HEVC )©" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="Series",PT: FOX COMEDY ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424077.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY FHD" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="Series",PT: FOX COMEDY FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424078.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE" tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" group-title="Series",PT: FOX LIFE
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424079.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE HD" tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" group-title="Series",PT: FOX LIFE HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424080.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE ( HD HEVC )©" tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" group-title="Series",PT: FOX LIFE ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424081.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE FHD" tvg-logo="https://i.ibb.co/YhPfLns/Fox-Life-Brasil-Logo.png" group-title="Series",PT: FOX LIFE FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424082.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ♛♛ DESPORTO ♛♛" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9DKeKSkc6inAV8HX0SfCJ3BshTDByAyLBP1sluXSflF9BnWQ4" group-title="Portugal",PT: ♛♛ DESPORTO ♛♛
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424083.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: F1 OFICIAL" tvg-logo="https://i.ibb.co/VHsdsPb/62073af08abc75d103d5bc6dfeb54729.png" group-title="DESPORTO",PT: F1 OFICIAL
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424084.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + SD" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="DESPORTO",PT: SPORT TV + SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424085.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV +  HD" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="DESPORTO",PT: SPORT TV +  HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424086.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + FHD" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="DESPORTO",PT: SPORT TV + FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424087.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + ( HD HEVC )©" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="DESPORTO",PT: SPORT TV + ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424088.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 SD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="DESPORTO",PT: SPORT TV 1 SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424089.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 HD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="DESPORTO",PT: SPORT TV 1 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424090.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 FHD" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="DESPORTO",PT: SPORT TV 1 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424091.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 4K" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="DESPORTO",PT: SPORT TV 1 4K
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424092.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 ( FHD BACKUP  1 )©" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="DESPORTO",PT: SPORT TV 1 ( FHD BACKUP  1 )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424093.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 ( HD HEVC )©" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="DESPORTO",PT: SPORT TV 1 ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424094.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 ( 1 HD 1 BIT  )©" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="DESPORTO",PT: SPORT TV 1 ( 1 HD 1 BIT  )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424095.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 ( FHD BACKUP )©" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="DESPORTO",PT: SPORT TV 1 ( FHD BACKUP )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424096.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 SD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="DESPORTO",PT: SPORT TV 2 SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424097.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 HD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="DESPORTO",PT: SPORT TV 2 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424098.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 FHD" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="DESPORTO",PT: SPORT TV 2 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424099.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2( SD BACKUP )©" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="DESPORTO",PT: SPORT TV 2( SD BACKUP )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424100.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 ( HD HEVC )©" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="DESPORTO",PT: SPORT TV 2 ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424101.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 ( FHD BACKUP )©" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="DESPORTO",PT: SPORT TV 2 ( FHD BACKUP )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424102.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="DESPORTO",PT: SPORT TV 3
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424103.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 HD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="DESPORTO",PT: SPORT TV 3 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424104.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 FHD" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="DESPORTO",PT: SPORT TV 3 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424105.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 ( HD HEVC )©" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="DESPORTO",PT: SPORT TV 3 ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424106.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 ( FHD BACKUP )©" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="DESPORTO",PT: SPORT TV 3 ( FHD BACKUP )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424107.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="DESPORTO",PT: SPORT TV 4
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424108.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 HD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="DESPORTO",PT: SPORT TV 4 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424109.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 FHD" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="DESPORTO",PT: SPORT TV 4 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424110.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 ( HD HEVC )©" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="DESPORTO",PT: SPORT TV 4 ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424111.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 ( FHD BACKUP )©" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="DESPORTO",PT: SPORT TV 4 ( FHD BACKUP )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424112.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="DESPORTO",PT: SPORT TV 5
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424113.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 HD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="DESPORTO",PT: SPORT TV 5 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424114.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 FHD" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="DESPORTO",PT: SPORT TV 5 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424115.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 ( SD BACKUP )©" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="DESPORTO",PT: SPORT TV 5 ( SD BACKUP )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424116.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 ( HD HEVC )©" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="DESPORTO",PT: SPORT TV 5 ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424117.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 HD" tvg-logo="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" group-title="DESPORTO",PT: SPORT TV 6 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424118.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 FHD" tvg-logo="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" group-title="DESPORTO",PT: SPORT TV 6 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424119.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 6 ( HD HEVC )©" tvg-logo="https://i.ibb.co/g37mZ4P/tv-station-sport-tv-6-2619.png" group-title="DESPORTO",PT: SPORT TV 6 ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424120.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA  SD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" group-title="DESPORTO",PT: SPORT TV NBA  SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424121.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" group-title="DESPORTO",PT: SPORT TV NBA HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424122.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA FHD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" group-title="DESPORTO",PT: SPORT TV NBA FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424123.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA ( HD HEVC )©" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" group-title="DESPORTO",PT: SPORT TV NBA ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424124.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV SD" tvg-logo="https://1.bp.blogspot.com/-oZKppN3ouvk/WDrqBTKfm2I/AAAAAAAAFa0/XqtKJP8Ld3gXPJfCi43-7evKAMkf5ooJgCLcB/s1600/BTV+logo.png" group-title="DESPORTO",PT: BTV SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424125.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV HD" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV+HD+logo.png" group-title="DESPORTO",PT: BTV HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424126.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV FHD" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV+HD+logo.png" group-title="DESPORTO",PT: BTV FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424127.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV 4k" tvg-logo="https://1.bp.blogspot.com/-oZKppN3ouvk/WDrqBTKfm2I/AAAAAAAAFa0/XqtKJP8Ld3gXPJfCi43-7evKAMkf5ooJgCLcB/s1600/BTV+logo.png" group-title="DESPORTO",PT: BTV 4k
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424128.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV BACKUP" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV+HD+logo.png" group-title="DESPORTO",PT: BTV BACKUP
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424129.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV SD" tvg-logo="https://1.bp.blogspot.com/-nolvcpPEK7c/WDrqJqB-8II/AAAAAAAAFgU/C1-9rUc07ckGftXUuPb5fyzo4HhiySmDACLcB/s1600/Sporting+TV+HD+logo.png" group-title="DESPORTO",PT: SPORTING TV SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424130.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV FHD" tvg-logo="https://1.bp.blogspot.com/-nolvcpPEK7c/WDrqJqB-8II/AAAAAAAAFgU/C1-9rUc07ckGftXUuPb5fyzo4HhiySmDACLcB/s1600/Sporting+TV+HD+logo.png" group-title="DESPORTO",PT: SPORTING TV FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424131.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="DESPORTO",PT: ELEVEN SPORTS 1 SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424132.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="DESPORTO",PT: ELEVEN SPORTS 1 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424133.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="DESPORTO",PT: ELEVEN SPORTS 1 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424134.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 4k" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="DESPORTO",PT: ELEVEN SPORTS 1 4k
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424135.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 BACKUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="DESPORTO",PT: ELEVEN SPORTS 1 BACKUP
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424136.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 BACKUP*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="DESPORTO",PT: ELEVEN SPORTS 1 BACKUP*
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424137.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="DESPORTO",PT: ELEVEN SPORTS 2 SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424138.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="DESPORTO",PT: ELEVEN SPORTS 2 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424139.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="DESPORTO",PT: ELEVEN SPORTS 2 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424140.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 BACKUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="DESPORTO",PT: ELEVEN SPORTS 2 BACKUP
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424141.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 BACKUP*" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="DESPORTO",PT: ELEVEN SPORTS 2 BACKUP*
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424142.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Eleven_Sports_3_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222233738" group-title="DESPORTO",PT: ELEVEN SPORTS 3 SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424143.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Eleven_Sports_3_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222233738" group-title="DESPORTO",PT: ELEVEN SPORTS 3 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424144.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Eleven_Sports_3_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222233738" group-title="DESPORTO",PT: ELEVEN SPORTS 3 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424145.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 BACKUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/Eleven_Sports_3_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222233738" group-title="DESPORTO",PT: ELEVEN SPORTS 3 BACKUP
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424146.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_(2017).svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="DESPORTO",PT: ELEVEN SPORTS 4
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424147.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_(2017).svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="DESPORTO",PT: ELEVEN SPORTS 4 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424148.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_(2017).svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="DESPORTO",PT: ELEVEN SPORTS 4 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424149.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 BACKUP" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_(2017).svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="DESPORTO",PT: ELEVEN SPORTS 4 BACKUP
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424150.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg/revision/latest/scale-to-width-down/250?cb=20210210163233" group-title="DESPORTO",PT: ELEVEN SPORTS 5
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424152.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg/revision/latest/scale-to-width-down/250?cb=20210210163233" group-title="DESPORTO",PT: ELEVEN SPORTS 5 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424153.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg/revision/latest/scale-to-width-down/250?cb=20210210163233" group-title="DESPORTO",PT: ELEVEN SPORTS 5 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424154.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" group-title="DESPORTO",PT: ELEVEN SPORTS 6
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424156.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" group-title="DESPORTO",PT: ELEVEN SPORTS 6 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424157.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 FHD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" group-title="DESPORTO",PT: ELEVEN SPORTS 6 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424158.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV SD" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="DESPORTO",PT: A BOLA TV SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424159.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV HD" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="DESPORTO",PT: A BOLA TV HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424160.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV FHD" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="DESPORTO",PT: A BOLA TV FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424161.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV BACKUP" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="DESPORTO",PT: A BOLA TV BACKUP
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424162.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="DESPORTO",PT: CANAL 11
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424163.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 HD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="DESPORTO",PT: CANAL 11 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424164.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 FHD" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="DESPORTO",PT: CANAL 11 FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424165.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 BACKUP" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="DESPORTO",PT: CANAL 11 BACKUP
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424166.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ♛♛ KIDS ♛♛" tvg-logo="https://www.autocolantesdecorativos.pt/2902-thickbox_default/colagem-capa-banda-desenhada-dc.jpg" group-title="KIDS",PT: ♛♛ KIDS ♛♛
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424167.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NETFLIX KIDS" tvg-logo="https://cdn.wccftech.com/wp-content/uploads/2018/04/Netflix-HD.png" group-title="KIDS",PT: NETFLIX KIDS
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424168.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY STAR WARS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cb/Star_Wars_Commander_Icon.png" group-title="KIDS",PT: DISNEY STAR WARS
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424169.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY PIXAR" tvg-logo="https://i.ibb.co/YZRmvNn/dpix.jpg" group-title="KIDS",PT: DISNEY PIXAR
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424170.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY MARVEL" tvg-logo="https://television.mxdwn.com/wp-content/uploads/2019/08/Disney-Marvel-logo.jpg" group-title="KIDS",PT: DISNEY MARVEL
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424171.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR SD" tvg-logo="https://i.imgur.com/4dzzQ0t.png" group-title="KIDS",PT: DISNEY JUNIOR SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424172.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Nick + HD" tvg-logo="https://www.meo.pt/PublishingImages/paginas/nick-plus/logo-nick-branco.png" group-title="KIDS",PT: Nick + HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424173.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY +" tvg-logo="https://disneyplusbrasil.com.br/wp-content/uploads/2020/07/logo-grande.png" group-title="KIDS",PT: DISNEY +
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424174.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICK JUNIOR SD" tvg-logo="http://i.imgur.com/gz6kU7g.png" group-title="KIDS",PT: NICK JUNIOR SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424175.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BOOMERANG" tvg-logo="https://www.tvprogramacao.com/static/storage/app/epg_channel_icons/80b/5b5/80b5b5e0-7e4b-4dff-a483-376a26203bb2.png" group-title="KIDS",PT: BOOMERANG
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424176.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV SD" tvg-logo="https://i.imgur.com/UKFLfSf.png" group-title="KIDS",PT: BABY TV SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424177.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: JIM JAM SD" tvg-logo="https://i.imgur.com/PBr8zK4.png" group-title="KIDS",PT: JIM JAM SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424178.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON HD" tvg-logo="https://i.imgur.com/E8CQtKg.png" group-title="KIDS",PT: NICKELODEON HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424179.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA SD" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="KIDS",PT: CANAL PANDA SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424180.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA HD" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="KIDS",PT: CANAL PANDA HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424181.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL PANDA ( HD HEVC )©" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="KIDS",PT: CANAL PANDA ( HD HEVC )©
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424182.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA KIDS SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Logo-pandakids.png/revision/latest?cb=20210819132138" group-title="KIDS",PT: PANDA KIDS SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424183.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC KIDS HD" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="KIDS",PT: SIC KIDS HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424184.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA BIGGS SD" tvg-logo="https://i.imgur.com/0rAXNbf.png" group-title="KIDS",PT: PANDA BIGGS SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424185.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA BIGGS  FHD" tvg-logo="https://i.imgur.com/0rAXNbf.png" group-title="KIDS",PT: PANDA BIGGS  FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424186.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="KIDS",PT: DISNEY CHANNEL SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424187.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON  NETWORK SD" tvg-logo="https://i.imgur.com/Atdjaeq.png" group-title="KIDS",PT: CARTOON  NETWORK SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424188.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24/7 DRAGON BALL SUPER" tvg-logo="https://i.ibb.co/fMgZNZd/image.png" group-title="KIDS",PT: 24/7 DRAGON BALL SUPER
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424189.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24/7 CLASSICOS DISNEY" tvg-logo="https://i.ibb.co/FBDg1Qb/400px-Os-Classicos.jpg" group-title="KIDS",PT: 24/7 CLASSICOS DISNEY
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424190.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICÇÃO SD" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="Portugal",PT: TVI FICÇÃO SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424191.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICÇÃO HD" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="Portugal",PT: TVI FICÇÃO HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424192.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICÇÃO FHD" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="Portugal",PT: TVI FICÇÃO FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424193.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICÇÃO BACKUP" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="Portugal",PT: TVI FICÇÃO BACKUP
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424194.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="Portugal",PT: TV GLOBO SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424195.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="Portugal",PT: TV GLOBO HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424196.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="Portugal",PT: TV GLOBO FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424197.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV GLOBO NOW SD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="Portugal",PT: TV GLOBO NOW SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424198.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD HD" tvg-logo="https://i.imgur.com/oC9BsVv.png" group-title="Portugal",PT: TV RECORD HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424199.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC Caras HD" tvg-logo="https://i.imgur.com/n8MiEHQ.png" group-title="Portugal",PT: SIC Caras HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424200.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER HD" tvg-logo="https://i.imgur.com/YPMnEq4.png" group-title="Portugal",PT: SIC MULHER HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424201.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: S + HD" tvg-logo="https://uploads-eu-west-1.insided.com/nos-pt/attachment/d4fd2eee-d477-4621-855e-1e46ce4bc810.png" group-title="Portugal",PT: S + HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424203.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL SD" tvg-logo="https://i.imgur.com/ZPj99mx.png" group-title="Portugal",PT: SIC RADICAL SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424204.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL HD" tvg-logo="https://i.imgur.com/ZPj99mx.png" group-title="Portugal",PT: SIC RADICAL HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424205.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL FHD" tvg-logo="https://i.imgur.com/ZPj99mx.png" group-title="Portugal",PT: SIC RADICAL FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424206.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CBS REALITY SD" tvg-logo="https://i.imgur.com/urVdic4.png" group-title="Portugal",PT: CBS REALITY SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424207.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC SD" tvg-logo="https://i.imgur.com/JOiDYx6.png" group-title="Portugal",PT: TLC SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424208.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CASA COZINHA HD" tvg-logo="https://i.imgur.com/2gCvBdw.png" group-title="Portugal",PT: CASA COZINHA HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424209.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 KITCHEN HD" tvg-logo="https://i.imgur.com/h7zVseY.png" group-title="Portugal",PT: 24 KITCHEN HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424210.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MÁS CHIC HD" tvg-logo="https://masideas.com/files/2015/06/MAS-CHIC.-LOGOTIPO.png" group-title="Portugal",PT: MÁS CHIC HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424211.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOOD NETWORK" tvg-logo="https://i.imgur.com/8usMt92.png" group-title="Portugal",PT: FOOD NETWORK
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424212.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! ENTERTAINMENT SD" tvg-logo="http://i.imgur.com/DfsBEFp.png" group-title="Portugal",PT: E! ENTERTAINMENT SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424213.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVEL CHANNEL HD" tvg-logo="https://i.imgur.com/709MBnc.png" group-title="Portugal",PT: TRAVEL CHANNEL HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424214.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL HD" tvg-logo="https://i.imgur.com/BHxX7EF.png" group-title="Portugal",PT: PORTO CANAL HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424215.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q SD" tvg-logo="https://i.imgur.com/pChUy7I.png" group-title="Portugal",PT: CANAL Q SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424216.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE HD" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo.png" group-title="Portugal",PT: BLAZE HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424217.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DOG TV FHD" tvg-logo="https://i.imgur.com/R1mVNpa.png" group-title="Portugal",PT: DOG TV FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424218.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMÓRIA SD" tvg-logo="http://prvxtv.dnsfor.me/TUGA/RTPMEMORIA.png" group-title="Portugal",PT: RTP MEMÓRIA SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424219.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AÇORES SD" tvg-logo="https://i.imgur.com/1oHvxM5.png" group-title="Portugal",PT: RTP AÇORES SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424220.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA SD" tvg-logo="https://i.imgur.com/9HzL9J3.png" group-title="Portugal",PT: RTP AFRICA SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424221.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA" tvg-logo="https://i.imgur.com/SI9g5qp.png" group-title="Portugal",PT: RTP MADEIRA
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424222.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ♛♛ DOCUMENTÁRIOS ♛♛" tvg-logo="https://sesctv.org.br/wp-content/uploads/2018/06/documentarios.png" group-title="Portugal",PT: ♛♛ DOCUMENTÁRIOS ♛♛
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424223.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRAVELXP HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9CiON_cIcTf2VhWhHl-zGK1vrXJKn_hMr5psVDI6AWw&amp;s" group-title="DOCUMENTÁRIOS",PT: TRAVELXP HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424224.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC WILD SD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="DOCUMENTÁRIOS",PT: NATIONAL GEOGRAPHIC WILD SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424225.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC WILD HD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="DOCUMENTÁRIOS",PT: NATIONAL GEOGRAPHIC WILD HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424226.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC WILD FHD" tvg-logo="https://i.imgur.com/emG4pHK.png" group-title="DOCUMENTÁRIOS",PT: NATIONAL GEOGRAPHIC WILD FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424227.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC SD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="DOCUMENTÁRIOS",PT: NATIONAL GEOGRAPHIC SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424228.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC HD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="DOCUMENTÁRIOS",PT: NATIONAL GEOGRAPHIC HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424229.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC  FHD" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="DOCUMENTÁRIOS",PT: NATIONAL GEOGRAPHIC  FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424230.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL HD" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="DOCUMENTÁRIOS",PT: DISCOVERY CHANNEL HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424231.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ID INVESTIGATION DISCOVERY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Investiga%C3%A7%C3%A3o_Discovery_1.png/200px-Investiga%C3%A7%C3%A3o_Discovery_1.png" group-title="DOCUMENTÁRIOS",PT: ID INVESTIGATION DISCOVERY HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424232.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA HD" tvg-logo="https://i.imgur.com/OeQhRFQ.png" group-title="DOCUMENTÁRIOS",PT: ODISSEIA HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424233.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL HISTÓRIA SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="DOCUMENTÁRIOS",PT: CANAL HISTÓRIA SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424234.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY ID" tvg-logo="https://www.nos.pt/particulares/televisao/canais/exclusivos/PublishingImages/ID/logo.png" group-title="DOCUMENTÁRIOS",PT: DISCOVERY ID
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424235.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FASHION TV HD" tvg-logo="https://i.imgur.com/bAOA1wS.png" group-title="DOCUMENTÁRIOS",PT: FASHION TV HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424236.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ♛♛ DIVERSIDADE DESPORTO ♛♛" tvg-logo="" group-title="Portugal",PT: ♛♛ DIVERSIDADE DESPORTO ♛♛
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424237.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 HD" tvg-logo="https://i.imgur.com/7u2MNJb.png" group-title="Portugal",PT: EUROSPORT 1 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424238.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 2 HD" tvg-logo="https://i.imgur.com/AniJkHa.png" group-title="Portugal",PT: EUROSPORT 2 HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424239.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC SD" tvg-logo="https://i.imgur.com/kvmx029.png" group-title="Portugal",PT: PFC SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424240.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL TV HD" tvg-logo="https://i.imgur.com/ZmZfDtk.png" group-title="Portugal",PT: FUEL TV HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424241.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL TV FHD" tvg-logo="https://i.imgur.com/ZmZfDtk.png" group-title="Portugal",PT: FUEL TV FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424242.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV SD" tvg-logo="https://i.imgur.com/iwj7CTK.png" group-title="Portugal",PT: TOROS TV SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424243.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV HD" tvg-logo="https://i.imgur.com/iwj7CTK.png" group-title="Portugal",PT: TOROS TV HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424244.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOROS TV FHD" tvg-logo="https://i.imgur.com/iwj7CTK.png" group-title="Portugal",PT: TOROS TV FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424245.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAMPO PEQUENO TV HD" tvg-logo="http://www.campopequeno.com/img/campopequenotv_logo.png" group-title="Portugal",PT: CAMPO PEQUENO TV HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424246.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION TV SD" tvg-logo="https://i.imgur.com/I0ZTOVi.png" group-title="Portugal",PT: MOTORVISION TV SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424247.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Outdoor HD" tvg-logo="https://www.absatellite.com/wp-content/uploads/outdoor_channel_hd.png" group-title="Portugal",PT: Outdoor HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424248.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAÇA &amp; PESCA FHD" tvg-logo="https://i.imgur.com/xpqAcSz.png" group-title="Portugal",PT: CAÇA &amp; PESCA FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424249.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION SD" tvg-logo="https://i.imgur.com/i0IDqQd.png" group-title="Portugal",PT: CACAVISION SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424250.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RED BUL TV  FHD" tvg-logo="https://seeklogo.com/images/R/red-bull-logo-379EC9059E-seeklogo.com.png" group-title="Portugal",PT: RED BUL TV  FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424251.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ADVANCE SIC FHD" tvg-logo="https://images.impresa.pt/impresa/2020-12-28-600x338_advnce.png/original" group-title="Portugal",PT: ADVANCE SIC FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424252.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: GINX" tvg-logo="https://vignette.wikia.nocookie.net/tvfanon6528/images/d/da/Ginx_eSports_TV_(2016-.n.v.).png/revision/latest/scale-to-width-down/1000?cb=20180608094248" group-title="Portugal",PT: GINX
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424253.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: COMBATE" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="Portugal",PT: COMBATE
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424254.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: COMBATE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="Portugal",PT: COMBATE HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424255.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: COMBATE FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/05/canal-combate-logo.png" group-title="Portugal",PT: COMBATE FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424256.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: WWE HD" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/a77021bb-a973-4a9b-8902-47e05787b08f/d8txzp1-3f32b570-9b7f-437d-ad29-2df8cdbf554c.png" group-title="Portugal",PT: WWE HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424257.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fight Box HD" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/logo/FightBoxHD-logo.png" group-title="Portugal",PT: Fight Box HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424259.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Fight Network" tvg-logo="" group-title="Portugal",PT: Fight Network
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424260.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: UFC FIGTH PASS FHD" tvg-logo="https://assets-global.website-files.com/5cf5a026c170934c311c121c/5cf5ae865c5c341607d12b99_White-H-Logo-p-500.png" group-title="Portugal",PT: UFC FIGTH PASS FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424261.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NFL NETWORK HD" tvg-logo="https://www.logolynx.com/images/logolynx/3f/3f73be391f4b8876b4f05e5b95dbadba.png" group-title="Portugal",PT: NFL NETWORK HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424262.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ♛♛ MUSICA ♛♛" tvg-logo="https://img.myloview.com.br/fotomurais/logotipo-musical-com-fones-de-ouvido-e-notas-musicais-400-110828760.jpg" group-title="Portugal",PT: ♛♛ MUSICA ♛♛
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424263.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV 00s" tvg-logo="" group-title="Portugal",PT: MTV 00s
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424264.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: Lolly Kids" tvg-logo="https://www.meo.pt/PublishingImages/logos/lolly-kids-logo-meo-desktop.png" group-title="Portugal",PT: Lolly Kids
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424265.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AFRO MUSIC SD" tvg-logo="https://i.imgur.com/YdHGyWn.png" group-title="Portugal",PT: AFRO MUSIC SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424266.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: VH1 SD" tvg-logo="https://i.imgur.com/Nn30UkT.png" group-title="Portugal",PT: VH1 SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424267.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE URBAN" tvg-logo="https://i.imgur.com/4M2XZfF.png" group-title="Portugal",PT: TRACE URBAN
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424268.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV PORTUGAL HD" tvg-logo="https://i.imgur.com/wNvqkOM.png" group-title="Portugal",PT: MTV PORTUGAL HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424269.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MTV LIVE HD" tvg-logo="https://wpcdn.pl/ptv-stage/logo/bright/128/439.png" group-title="Portugal",PT: MTV LIVE HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424270.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TOP" tvg-logo="https://i.imgur.com/ugDPCmB.png" group-title="Portugal",PT: MCM TOP
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424271.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM POP SD" tvg-logo="https://i.imgur.com/nxTIh9U.png" group-title="Portugal",PT: MCM POP SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424272.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEZZO LIVE FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Mezzo_Live_HD_logo.png" group-title="Portugal",PT: MEZZO LIVE FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424273.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANÇÃO NOVA" tvg-logo="https://i.imgur.com/1EGWuDA.png" group-title="Portugal",PT: CANÇÃO NOVA
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424274.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CLUBBING TV" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/39/Clubbing_TV.png" group-title="Portugal",PT: CLUBBING TV
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424275.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 180" tvg-logo="https://assets.bondlayer.com/nhjtx0kggg/_assets/nwxbgehephns507vsruet.png" group-title="Portugal",PT: CANAL 180
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424276.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: M6 MUSIC HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c9/M6_Music_(2012).png" group-title="Portugal",PT: M6 MUSIC HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424278.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ZAP VIVA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/c/c6/Zap_Viva_(logo).png" group-title="Portugal",PT: ZAP VIVA FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424279.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: KURIAKOS TV FHD" tvg-logo="https://i.imgur.com/NSDWjtZ.png" group-title="Portugal",PT: KURIAKOS TV FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424280.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TPA INTERNACIONAL SD" tvg-logo="http://3.bp.blogspot.com/_KyS0t-zNphQ/Sm8lSLMtanI/AAAAAAAAALU/BPsy3PC4LPg/s320/tpa+i.jpg" group-title="Portugal",PT: TPA INTERNACIONAL SD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424281.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SANTUARIO DE FATIMA FHD" tvg-logo="https://seeklogo.com/images/S/santuario-de-fatima-logo-A6BA69F003-seeklogo.com.png" group-title="Portugal",PT: SANTUARIO DE FATIMA FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424282.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ♛♛ INTERNACIONAL ♛♛" tvg-logo="" group-title="Portugal",PT: ♛♛ INTERNACIONAL ♛♛
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424283.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TCV INTERNACIONAL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0c/TCV_2007.png/revision/latest?cb=20190328210628" group-title="Portugal",PT: TCV INTERNACIONAL
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424284.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVC CABO VERDE" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102010/tcv.gif?itok=fw_DgJJE" group-title="Portugal",PT: TVC CABO VERDE
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424285.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: EURONEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/Euronews._2016_alternative_logo.png" group-title="Portugal",PT: EURONEWS
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424286.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY MOSAICO" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="Portugal",PT: TVI REALITY MOSAICO
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424287.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="Portugal",PT: TVI REALITY
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424288.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY HD" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="Portugal",PT: TVI REALITY HD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424289.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY FHD" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="Portugal",PT: TVI REALITY FHD
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424290.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAM 1" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="Portugal",PT: TVI REALITY CAM 1
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424291.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAM 2" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="Portugal",PT: TVI REALITY CAM 2
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424292.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAM 3" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="Portugal",PT: TVI REALITY CAM 3
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424293.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY CAM 4" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="Portugal",PT: TVI REALITY CAM 4
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424294.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HIT FM" tvg-logo="https://www.google.com/url?sa=i&amp;url=https://pt.streema.com/radios/XHT&amp;psig=AOvVaw2gLH_5knyk3hM6vn_vVVXH&amp;ust=1636314027789000&amp;source=images&amp;cd=vfe&amp;ved=0CAsQjRxqFwoTCOjR3v2-hPQCFQAAAAAdAAAAABAD" group-title="RADIO",PT: HIT FM
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424295.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TSF" tvg-logo="https://www.vilanovadefamalicao.org/op/image/?co=116964&amp;h=5b7ae" group-title="RADIO",PT: TSF
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424296.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SMOOTH FM" tvg-logo="http://csvus.com:80/images/d69dc20e71ac61e8b2bc16de7c4707f8.jpg" group-title="RADIO",PT: SMOOTH FM
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424297.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MUNDO PORTUGAL" tvg-logo="http://csvus.com:80/images/fb424e5c86909a32632f89ed033cbcd0.jpg" group-title="RADIO",PT: MUNDO PORTUGAL
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424298.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DANCEFLOOR" tvg-logo="http://csvus.com:80/images/84b88d1423d9e17857b3029f00b4c7ac.jpg" group-title="RADIO",PT: DANCEFLOOR
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424299.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOUSE TIME" tvg-logo="http://csvus.com:80/images/f84eff7609f089ba5014dbfd47e9b32d.jpg" group-title="RADIO",PT: HOUSE TIME
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424300.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RADIO RENASCENCA" tvg-logo="http://csvus.com:80/images/d9e85aafc93a2bd043773f6da2bb48d5.jpg" group-title="RADIO",PT: RADIO RENASCENCA
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424301.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CADENA 100" tvg-logo="http://csvus.com:80/images/96d6f2e7e1f705ab5e59c84a6dc009b2.jpg" group-title="RADIO",PT: CADENA 100
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424302.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RADIO NOVA ERA" tvg-logo="http://csvus.com:80/images/5b49624a6dd2113c0bbfa84c4fc0879d.jpg" group-title="RADIO",PT: RADIO NOVA ERA
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424303.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TOCA A DANÇAR" tvg-logo="http://csvus.com:80/images/ee8597b3aacc61d41a7600ec919c4dfe.jpg" group-title="RADIO",PT: TOCA A DANÇAR
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424304.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: M80" tvg-logo="" group-title="RADIO",PT: M80
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424305.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ANTENA 3" tvg-logo="" group-title="RADIO",PT: ANTENA 3
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424306.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ANTENA 2" tvg-logo="" group-title="RADIO",PT: ANTENA 2
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424307.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ANTENA 1" tvg-logo="" group-title="RADIO",PT: ANTENA 1
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424308.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RADAR" tvg-logo="" group-title="RADIO",PT: RADAR
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424309.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CIDADE FM" tvg-logo="" group-title="RADIO",PT: CIDADE FM
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424310.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MEGA HITS" tvg-logo="" group-title="RADIO",PT: MEGA HITS
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424311.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SUPER FM" tvg-logo="" group-title="RADIO",PT: SUPER FM
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424312.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: KISS FM ESPAÑA" tvg-logo="" group-title="RADIO",PT: KISS FM ESPAÑA
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424313.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RFM 80" tvg-logo="" group-title="RADIO",PT: RFM 80
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424314.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RFM CLUBBING" tvg-logo="" group-title="RADIO",PT: RFM CLUBBING
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424315.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RFM OCEANO PACIFICO" tvg-logo="" group-title="RADIO",PT: RFM OCEANO PACIFICO
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424316.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RFM" tvg-logo="" group-title="RADIO",PT: RFM
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424317.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ANTENA 1 VIDA" tvg-logo="" group-title="RADIO",PT: ANTENA 1 VIDA
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424318.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ANTENA 1 MEMORIA" tvg-logo="" group-title="RADIO",PT: ANTENA 1 MEMORIA
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424319.ts
+#EXTINF:-1 tvg-id="" tvg-name="TVI REALITY LOW" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="RADIO",TVI REALITY LOW
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424320.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 1 (LOW)" tvg-logo="https://2.bp.blogspot.com/-ygRxWjA8yjM/WB3MKzbPNFI/AAAAAAAAFRs/BUdrADdoHCE3hOK8PwzgiHpwzMSTJvpPQCLcB/s1600/RTP+1+logo.png" group-title="Canais (LOW)",PT: RTP 1 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424321.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 2 (LOW)" tvg-logo="https://4.bp.blogspot.com/-iC-8_X3fxMo/WB3MLP7PRrI/AAAAAAAAFRw/loEmJfcu0wIJna15b83hKr53bbsLmoRGQCLcB/s1600/RTP+2+logo.png" group-title="Canais (LOW)",PT: RTP 2 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424322.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP 3 (LOW)" tvg-logo="https://i.imgur.com/ECoFH6v.png" group-title="Canais (LOW)",PT: RTP 3 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424323.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC (LOW)" tvg-logo="https://2.bp.blogspot.com/-GcddpZ7IEws/TyVcDa2hV4I/AAAAAAAABTA/YXUOBUjRfLs/s1600/SIC+logo.png" group-title="Canais (LOW)",PT: SIC (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424324.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI (LOW)" tvg-logo="https://1.bp.blogspot.com/-t5GXF5OCKUc/WKte3ETJtsI/AAAAAAAAFrg/qTgWMdGokKsyXqjudlAMnyvRUeL6O_AlgCLcB/s1600/TVI+logo.png" group-title="Canais (LOW)",PT: TVI (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424325.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CMTV (LOW)" tvg-logo="https://4.bp.blogspot.com/-iO-o1CgV-7Y/WDrqBaMgUYI/AAAAAAAAFa8/639DZ7fRd6sryOZ8u32II8sNOO8WpG9FwCLcB/s1600/CM+TV+logo.png" group-title="Canais (LOW)",PT: CMTV (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424326.ts
+#EXTINF:-1 tvg-id="" tvg-name="CNN 24 (LOW)" tvg-logo="https://e7.pngegg.com/pngimages/432/428/png-clipart-logo-graphics-cnn-turk-cruise-director-job-text-trademark.png" group-title="Canais (LOW)",CNN 24 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424327.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV + (LOW)" tvg-logo="https://i.imgur.com/zsFjzDa.png" group-title="Canais (LOW)",PT: SPORT TV + (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424328.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 1 (LOW)" tvg-logo="https://i.imgur.com/KhKSBKe.png" group-title="Canais (LOW)",PT: SPORT TV 1 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424329.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 2 (LOW)" tvg-logo="https://i.imgur.com/Ps8cV4I.png" group-title="Canais (LOW)",PT: SPORT TV 2 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424330.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 3 (LOW)" tvg-logo="https://i.imgur.com/cUwJfnp.png" group-title="Canais (LOW)",PT: SPORT TV 3 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424331.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 4 (LOW)" tvg-logo="https://i.imgur.com/h9VDKdK.png" group-title="Canais (LOW)",PT: SPORT TV 4 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424332.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV 5 (LOW)" tvg-logo="https://i.imgur.com/x9mxzQw.png" group-title="Canais (LOW)",PT: SPORT TV 5 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424333.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORT TV NBA (LOW)" tvg-logo="https://www.nos.pt/particulares/televisao/canais/premium/PublishingImages/sport-tv/nba/highlight-grelha/2/medium.jpg" group-title="Canais (LOW)",PT: SPORT TV NBA (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424334.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 1 (LOW)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Eleven_Sport_1_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222232816" group-title="Canais (LOW)",PT: ELEVEN SPORTS 1 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424335.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 2 (LOW)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4a/Eleven_Sports_2_(2017).svg/revision/latest/scale-to-width-down/250?cb=20200222233012" group-title="Canais (LOW)",PT: ELEVEN SPORTS 2 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424336.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 3 (LOW)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/Eleven_Sports_4_(2017).svg/revision/latest/scale-to-width-down/250?cb=20210204144907" group-title="Canais (LOW)",PT: ELEVEN SPORTS 3 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424337.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 4 (LOW)" tvg-logo="https://neulionsmbnyc-a.akamaihd.net/u/mt1/elevensportspt/thumbs/channels/41_es.jpg" group-title="Canais (LOW)",PT: ELEVEN SPORTS 4 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424338.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 5 (LOW)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/93/Eleven_Sports_5.svg/revision/latest/scale-to-width-down/250?cb=20210210163233" group-title="Canais (LOW)",PT: ELEVEN SPORTS 5 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424339.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ELEVEN SPORTS 6 (LOW)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0d/Eleven_Sports_6.svg/revision/latest/scale-to-width-down/250?cb=20210210163412" group-title="Canais (LOW)",PT: ELEVEN SPORTS 6 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424340.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BTV (LOW)" tvg-logo="https://1.bp.blogspot.com/-bmo-eSDKLm0/WDrqBACM5GI/AAAAAAAAFas/uDRGh2C-tZ0oRPUufWBWVRtVHnHBJoduwCLcB/s1600/BTV+HD+logo.png" group-title="Canais (LOW)",PT: BTV (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424341.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: JIM JAM (LOW)" tvg-logo="https://i.imgur.com/PBr8zK4.png" group-title="Canais (LOW)",PT: JIM JAM (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424342.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PFC (LOW)" tvg-logo="https://i.imgur.com/kvmx029.png" group-title="Canais (LOW)",PT: PFC (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424343.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP ACORES (LOW)" tvg-logo="https://i.imgur.com/1oHvxM5.png" group-title="Canais (LOW)",PT: RTP ACORES (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424344.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP AFRICA (LOW)" tvg-logo="https://i.imgur.com/9HzL9J3.png" group-title="Canais (LOW)",PT: RTP AFRICA (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424345.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MADEIRA (LOW)" tvg-logo="https://i.imgur.com/SI9g5qp.png" group-title="Canais (LOW)",PT: RTP MADEIRA (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424346.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RTP MEMORIA (LOW)" tvg-logo="https://i.imgur.com/Hozoft0.png" group-title="Canais (LOW)",PT: RTP MEMORIA (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424347.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: 24 KITCHEN (LOW)" tvg-logo="https://i.imgur.com/h7zVseY.png" group-title="Canais (LOW)",PT: 24 KITCHEN (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424348.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: A BOLA TV (LOW)" tvg-logo="https://i.imgur.com/4DzM6Dw.png" group-title="Canais (LOW)",PT: A BOLA TV (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424349.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE TOP (LOW)" tvg-logo="http://prvxtv.dnsfor.me/logosmundo/tvctop.png" group-title="Canais (LOW)",PT: TVCINE TOP (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424350.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EDITION (LOW)" tvg-logo="http://prvxtv.dnsfor.me/logosmundo/tvcedition.png" group-title="Canais (LOW)",PT: TVCINE EDITION (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424351.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE EMOTION (LOW)" tvg-logo="http://prvxtv.dnsfor.me/logosmundo/tvcemotion.png" group-title="Canais (LOW)",PT: TVCINE EMOTION (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424352.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVCINE ACTION (LOW)" tvg-logo="http://prvxtv.dnsfor.me/logosmundo/tvcaction.png" group-title="Canais (LOW)",PT: TVCINE ACTION (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424353.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AMC (LOW)" tvg-logo="https://1.bp.blogspot.com/-MPbCb1IAtps/WB8tayoyiLI/AAAAAAAAFTg/eFRAt4PCzzcW9bcsUh_wC7yVtyGATeYMACLcB/s1600/AMC+logo.png" group-title="Canais (LOW)",PT: AMC (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424354.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN MOVIES  (LOW)" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2020/02/axnmovies-2015-v-black-magenta-rgb-hero.png" group-title="Canais (LOW)",PT: AXN MOVIES  (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424355.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN WHITE (LOW)" tvg-logo="https://3.bp.blogspot.com/-t3GENrpvUc8/WDrqA3wE2uI/AAAAAAAAFak/s9-42gnbUGkqswvFSf0s60TnyuF3LiKawCLcB/s1600/AXN+White+HD+logo.png" group-title="Canais (LOW)",PT: AXN WHITE (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424356.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: AXN (LOW)" tvg-logo="https://1.bp.blogspot.com/-eaIFUFMwW6Y/WDrqAy7WLPI/AAAAAAAAFac/ebV93SO38EkUak8XNhQCiITUZHNtWiSmQCLcB/s1600/AXN+HD+logo.png" group-title="Canais (LOW)",PT: AXN (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424357.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BABY TV (LOW)" tvg-logo="https://i.imgur.com/UKFLfSf.png" group-title="Canais (LOW)",PT: BABY TV (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424358.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: BLAZE (LOW)" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/blaze/logo.png" group-title="Canais (LOW)",PT: BLAZE (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424359.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CAZA E PESCA (LOW)" tvg-logo="https://i.imgur.com/xpqAcSz.png" group-title="Canais (LOW)",PT: CAZA E PESCA (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424360.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CACAVISION (LOW)" tvg-logo="https://i.imgur.com/i0IDqQd.png" group-title="Canais (LOW)",PT: CACAVISION (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424361.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL Q (LOW)" tvg-logo="https://i.imgur.com/pChUy7I.png" group-title="Canais (LOW)",PT: CANAL Q (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424362.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CARTOON NETWORK (LOW)" tvg-logo="https://i.imgur.com/Atdjaeq.png" group-title="Canais (LOW)",PT: CARTOON NETWORK (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424363.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CINEMUNDO (LOW)" tvg-logo="https://3.bp.blogspot.com/-mHEz-7oSIXw/VSene5r6G5I/AAAAAAAAEyE/4R-rWWL9nyo/s1600/Cinemundo+logo+1.png" group-title="Canais (LOW)",PT: CINEMUNDO (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424364.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CRIME INVESTIGATION (LOW)" tvg-logo="https://www.nos.pt/particulares/televisao/canais/PublishingImages/CI/logo-white.png" group-title="Canais (LOW)",PT: CRIME INVESTIGATION (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424365.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISCOVERY CHANNEL (LOW)" tvg-logo="https://i.imgur.com/kpeMjrn.png" group-title="Canais (LOW)",PT: DISCOVERY CHANNEL (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424366.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY CHANNEL (LOW)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/2014_Disney_Channel_logo.svg/1200px-2014_Disney_Channel_logo.svg.png" group-title="Canais (LOW)",PT: DISNEY CHANNEL (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424367.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DISNEY JUNIOR (LOW)" tvg-logo="https://i.imgur.com/4dzzQ0t.png" group-title="Canais (LOW)",PT: DISNEY JUNIOR (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424368.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: DOG TV (LOW)" tvg-logo="https://i.imgur.com/R1mVNpa.png" group-title="Canais (LOW)",PT: DOG TV (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424369.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: E! ENTERTAINMENT (LOW)" tvg-logo="http://i.imgur.com/DfsBEFp.png" group-title="Canais (LOW)",PT: E! ENTERTAINMENT (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424370.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICK JR (LOW)" tvg-logo="http://i.imgur.com/gz6kU7g.png" group-title="Canais (LOW)",PT: NICK JR (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424371.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NICKELODEON (LOW)" tvg-logo="https://i.imgur.com/E8CQtKg.png" group-title="Canais (LOW)",PT: NICKELODEON (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424372.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: EUROSPORT 1 (LOW)" tvg-logo="https://i.imgur.com/7u2MNJb.png" group-title="Canais (LOW)",PT: EUROSPORT 1 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424373.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX COMEDY (LOW)" tvg-logo="https://i.imgur.com/2jjKSSp.png" group-title="Canais (LOW)",PT: FOX COMEDY (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424374.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX CRIME (LOW)" tvg-logo="https://i.imgur.com/cS5bZEa.png" group-title="Canais (LOW)",PT: FOX CRIME (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424375.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX LIFE (LOW)" tvg-logo="https://1.bp.blogspot.com/-GXh7kwfzRTo/U96OitScklI/AAAAAAAAEnc/4-Dgt66u1II/s1600/FOX+Life+HD+logo.png" group-title="Canais (LOW)",PT: FOX LIFE (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424377.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX MOVIES (LOW)" tvg-logo="https://i.imgur.com/iON4Tnu.png" group-title="Canais (LOW)",PT: FOX MOVIES (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424378.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FOX (LOW)" tvg-logo="https://2.bp.blogspot.com/-Lkp3eIEVTT0/TyVavFNXZuI/AAAAAAAABHc/onUyR6tnwwI/s1600/Fox+HD+logo+2.png" group-title="Canais (LOW)",PT: FOX (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424379.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: FUEL TV (LOW)" tvg-logo="https://i.imgur.com/ZmZfDtk.png" group-title="Canais (LOW)",PT: FUEL TV (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424380.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO NOW (LOW)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="Canais (LOW)",PT: GLOBO NOW (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424381.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: GLOBO (LOW)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/8/8c/TV_GLOBO_2008_portugal.png" group-title="Canais (LOW)",PT: GLOBO (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424382.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HISTORIA (LOW)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1200px-History_Logo.svg.png" group-title="Canais (LOW)",PT: HISTORIA (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424383.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: HOLLYWOOD (LOW)" tvg-logo="https://i.imgur.com/7NK5ReE.png" group-title="Canais (LOW)",PT: HOLLYWOOD (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424384.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MCM TOP (LOW)" tvg-logo="https://i.imgur.com/ugDPCmB.png" group-title="Canais (LOW)",PT: MCM TOP (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424385.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: MOTORVISION (LOW)" tvg-logo="https://i.imgur.com/I0ZTOVi.png" group-title="Canais (LOW)",PT: MOTORVISION (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424386.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NATIONAL GEOGRAPHIC (LOW)" tvg-logo="https://i.imgur.com/Jx7AFvA.png" group-title="Canais (LOW)",PT: NATIONAL GEOGRAPHIC (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424387.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: ODISSEIA (LOW)" tvg-logo="https://i.imgur.com/OeQhRFQ.png" group-title="Canais (LOW)",PT: ODISSEIA (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424388.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA BIGGS (LOW)" tvg-logo="https://i.imgur.com/0rAXNbf.png" group-title="Canais (LOW)",PT: PANDA BIGGS (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424389.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PANDA (LOW)" tvg-logo="https://i.imgur.com/Crw0Nqu.png" group-title="Canais (LOW)",PT: PANDA (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424390.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: PORTO CANAL (LOW)" tvg-logo="https://i.imgur.com/BHxX7EF.png" group-title="Canais (LOW)",PT: PORTO CANAL (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424391.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: RECORD NEWS (LOW)" tvg-logo="https://media-manager.starsinsider.com/1920/na_5c9df95c17ee6.jpg" group-title="Canais (LOW)",PT: RECORD NEWS (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424392.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC CARAS (LOW)" tvg-logo="https://i.imgur.com/n8MiEHQ.png" group-title="Canais (LOW)",PT: SIC CARAS (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424393.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC K (LOW)" tvg-logo="https://i.imgur.com/WWW5qKT.png" group-title="Canais (LOW)",PT: SIC K (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424394.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC MULHER (LOW)" tvg-logo="https://i.imgur.com/YPMnEq4.png" group-title="Canais (LOW)",PT: SIC MULHER (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424395.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC NOTICIAS (LOW)" tvg-logo="https://3.bp.blogspot.com/-qnWwcwxFnnk/WDrqHavQXjI/AAAAAAAAFes/H8b9nHTH8L4RqA2OTXP9R2qeYHLw4Xw2QCLcB/s1600/SIC+Not%25C3%25ADcias+logo.png" group-title="Canais (LOW)",PT: SIC NOTICIAS (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424396.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SIC RADICAL (LOW)" tvg-logo="https://i.imgur.com/ZPj99mx.png" group-title="Canais (LOW)",PT: SIC RADICAL (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424397.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SKY NEWS (LOW)" tvg-logo="https://img2.freepng.es/20180721/iwi/kisspng-logo-sky-news-live-television-brand-television-cha-beyond-the-sky-5b532f35dc7c70.9339069115321782299031.jpg" group-title="Canais (LOW)",PT: SKY NEWS (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424398.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SPORTING TV (LOW)" tvg-logo="https://1.bp.blogspot.com/-nolvcpPEK7c/WDrqJqB-8II/AAAAAAAAFgU/C1-9rUc07ckGftXUuPb5fyzo4HhiySmDACLcB/s1600/Sporting+TV+HD+logo.png" group-title="Canais (LOW)",PT: SPORTING TV (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424399.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: SYFY (LOW)" tvg-logo="https://4.bp.blogspot.com/-KFpvGLvNb3Q/WDtdfKOQfEI/AAAAAAAAFkk/PXqW9GvFFdEvAHzpHiCy_cxWUTcb2-kVwCLcB/s1600/Syfy+HD+logo.png" group-title="Canais (LOW)",PT: SYFY (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424400.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: THE FOOD NETWORK (LOW)" tvg-logo="https://i.imgur.com/8usMt92.png" group-title="Canais (LOW)",PT: THE FOOD NETWORK (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424401.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: NOS STUDIOS (LOW)" tvg-logo="https://cdn.nos.pt/common/img/nos.png" group-title="Canais (LOW)",PT: NOS STUDIOS (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424402.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TLC (LOW)" tvg-logo="https://i.imgur.com/JOiDYx6.png" group-title="Canais (LOW)",PT: TLC (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424403.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE TOCA (LOW)" tvg-logo="https://br.trace.company/wp-content/uploads//2017/03/logo-toca.png" group-title="Canais (LOW)",PT: TRACE TOCA (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424404.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TRACE URBAN (LOW)" tvg-logo="https://i.imgur.com/4M2XZfF.png" group-title="Canais (LOW)",PT: TRACE URBAN (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424405.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TV RECORD (LOW)" tvg-logo="https://i.imgur.com/oC9BsVv.png" group-title="Canais (LOW)",PT: TV RECORD (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424406.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI FICÇÃO (LOW)" tvg-logo="https://i.imgur.com/dm0MYaW.png" group-title="Canais (LOW)",PT: TVI FICÇÃO (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424407.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: TVI REALITY (LOW)" tvg-logo="https://i.imgur.com/GpUO1Bb.png" group-title="Canais (LOW)",PT: TVI REALITY (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424408.ts
+#EXTINF:-1 tvg-id="" tvg-name="PT: CANAL 11 (LOW)" tvg-logo="https://www.meiosepublicidade.pt/wp-content/uploads/2019/07/logo11-300x200.png" group-title="Canais (LOW)",PT: CANAL 11 (LOW)
+http://kaoztv.com:80/qtvbox/w6kqBNLz48yf/424409.ts
